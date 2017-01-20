@@ -19,3 +19,7 @@ Dan beberapa tag html/css lainnya yang akan diupdate secara berkala.
 
 ##About Me : 
 Just ordinary person, Network & System Administrator before dan sekarang Student di Hacktiv8 yang mencoba untuk belajar menjadi Fullstack Web Developer. 
+
+##Future Plan : 
+- [ ] Kedepan akan diudpate sebagai catatan pribadi selama mengikuti kegiatan di hacktiv8, dengan update latest technology yang sudah dipelajari di hacktiv8. 
+
